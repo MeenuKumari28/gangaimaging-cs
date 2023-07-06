@@ -46,8 +46,8 @@ light: #DDDDDD80
 dark: #DDDDDD
 
 -- ftd.color scrim-:
-light: #393939
-dark: #393939
+light: #67747D
+dark: #67747D
 
 -- ftd.color cta-primary-base-:
 light: #232946
