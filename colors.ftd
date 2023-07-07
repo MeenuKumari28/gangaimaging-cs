@@ -31,7 +31,7 @@ dark: #FFFFFF
 
 -- ftd.color border-strong-:
 light: #D9D9D9
-dark: #1d4670
+dark: #1d4670 
 
 -- ftd.color text-:
 light: #67747D
