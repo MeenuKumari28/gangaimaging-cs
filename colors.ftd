@@ -97,8 +97,8 @@ text-disabled: $cta-primary-text-disabled-
 border-disabled: $cta-primary-border-disabled-
 
 -- ftd.color cta-secondary-base-:
-light: #EF8435
-dark: #EF8435
+light: #ffffff
+dark: #143352
 
 -- ftd.color cta-secondary-hover-:
 light: #D77730
@@ -374,3 +374,9 @@ seven: $custom-seven-
 eight: $custom-eight-
 nine: $custom-nine-
 ten: $custom-ten-
+
+
+;; 1. Icons are stretched
+;; 2. Card shadows could be enhance
+;; 3. Talking about the UX of cards, somewhere we have given border-radius and somewhere it’s 
+;; lagging!
