@@ -97,8 +97,8 @@ text-disabled: $cta-primary-text-disabled-
 border-disabled: $cta-primary-border-disabled-
 
 -- ftd.color cta-secondary-base-:
-light: #ffffff
-dark: #143352
+light: #F8F8F8
+dark: #122D4A
 
 -- ftd.color cta-secondary-hover-:
 light: #D77730
